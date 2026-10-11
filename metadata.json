@@ -1,0 +1,6 @@
+{
+  "name": "BASTRA SHOILY - বাস্ত্র শৈলি Admin & Store",
+  "description": "Comprehensive 26-module e-commerce admin management panel and authentic clothing storefront for BASTRA SHOILY, featuring product catalog, variants, order pipeline, invoices, CMS, and Facebook links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
